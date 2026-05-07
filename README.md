@@ -34,10 +34,6 @@ How to Run the Project
 Clone the repository:
 
 Bash
-git clone https://github.com/YourUsername/ProjectName.git
-Install dependencies:
-
-Bash
 pip install pandas numpy xgboost matplotlib
 Run the Jupyter Notebook Calories_Prediction_Project.ipynb.
 
